@@ -1,0 +1,3 @@
+facade Pattern we use to provide simplicity to client to access the complex.
+
+like we use library method, we don't know the implementation for that.
